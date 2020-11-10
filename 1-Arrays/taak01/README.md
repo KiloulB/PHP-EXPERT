@@ -4,7 +4,10 @@
 
 ## Uitleg
 
-De meeste data die jij uit een database haalt bestaat uit arrays. Maar dit zijn niet altijd eenvoudige arrays. Vaak zijn het _multidimensionale_ arrays. Dit betekent dat er een array meerder arrays kan bevatten. Hieronder staat een voorbeelden van drie typen arrays. De eerste twee ken je al:
+De meeste data die jij uit een database haalt bestaat uit arrays. 
+Maar dit zijn niet altijd eenvoudige arrays. Vaak zijn het _multidimensionale_ arrays. 
+Dit betekent dat er een array meerder arrays kan bevatten.
+Hieronder staat een voorbeelden van drie typen arrays. De eerste twee ken je al:
 
 Numerieke arrays
 
@@ -57,7 +60,7 @@ echo $medewerkers[1]['voornaam'] // Donald
 
 ## Leerdoelen
 
-> 1. [ ] Ik toon waardes op het scherm uit een associatieve array
+> 1. [X] Ik toon waardes op het scherm uit een associatieve array
 
 ## Opdracht
 

@@ -16,7 +16,7 @@ Met properties van objecten kunnen we dat ook doen:
 
 ```php
 class Student{
-    $voornaam;
+    public $voornaam;
 }
 
 $nieuweStudent = new Student();

@@ -1,0 +1,18 @@
+td {
+    max-width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+#bekijk {
+    color: white;
+}
+
+#update {
+    background-color: rgb(145, 98, 36);
+}
+
+#verwijder {
+    background-color: #da5a5a;
+}
